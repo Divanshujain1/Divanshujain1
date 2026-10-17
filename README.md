@@ -57,8 +57,6 @@ An AI-powered platform designed to make TOEFL and IELTS preparation more accessi
 
 **Tech:** Next.js · TypeScript · Node.js · Gemini API · Cloudflare D1 · Razorpay · DigitalOcean
 
-🔗 [Live Demo](YOUR_ELITEMOCK_LIVE_URL) · [Source Code](YOUR_ELITEMOCK_GITHUB_URL)
-
 ### 2. IoT-Based Environmental Monitoring System — NIT Warangal
 
 An ANRF-funded research project focused on collecting environmental data through connected sensors and making it available through a live monitoring dashboard.
@@ -71,8 +69,6 @@ An ANRF-funded research project focused on collecting environmental data through
 - Tested the communication link over distances of approximately 2–3 km and validated the system under field conditions.
 
 **Tech:** ESP32 · Embedded C/C++ · LoRa · Raspberry Pi · Firebase · PostgreSQL · React.js · Node.js
-
-🔗 [Project Repository](YOUR_IOT_GITHUB_URL)
 
 ### 3. Fresh Guard AI — Smart Fruit Quality Detection & UV-C Sterilization
 
@@ -90,8 +86,6 @@ A team project combining machine learning, camera-based inspection, environmenta
 
 **Tech:** Raspberry Pi · Python · Machine Learning · SHT31 · RTC · Socket.IO · Node.js · UV-C
 
-🔗 [Project Repository](YOUR_FRESH_GUARD_GITHUB_URL)
-
 ### 4. Smart Intrusion & Behavior Analysis System
 
 An edge-AI security system that combines person detection, multi-person tracking, sensor-based triggers, event logging, and GSM alerts.
@@ -107,8 +101,6 @@ An edge-AI security system that combines person detection, multi-person tracking
 
 **Tech:** Raspberry Pi 4B · Python · OpenCV · YOLO11s · PIR · Ultrasonic Sensor · Firebase · SIM800L
 
-🔗 [Project Repository](YOUR_INTRUSION_SYSTEM_GITHUB_URL)
-
 ### 5. Store Rating & Discovery Platform
 
 A full-stack web application developed for a technical assessment, designed to help users discover stores and submit ratings with role-based access.
@@ -122,8 +114,6 @@ A full-stack web application developed for a technical assessment, designed to h
 
 **Tech:** React.js · Node.js · SQL · REST APIs · Role-Based Access Control
 
-🔗 [Live Application](YOUR_STORE_PLATFORM_LIVE_URL) · [GitHub Repository](YOUR_STORE_PLATFORM_GITHUB_URL)
-
 ### 6. Multifunctional Robotics Bot
 
 A robotics project developed for the Ultimate Robotics Competition at PCCOE, combining autonomous navigation with manual control.
@@ -136,9 +126,6 @@ A robotics project developed for the Ultimate Robotics Competition at PCCOE, com
 - Built color-code recognition and a joystick-controlled servo-motor arm.
 
 **Tech:** ESP32 · Embedded C/C++ · PID Control · Sensors · Servo Motors · Joystick
-
-🔗 [Project Repository](YOUR_ROBOTICS_GITHUB_URL)
-
 ---
 
 ## 💼 Experience
@@ -170,16 +157,6 @@ A robotics project developed for the Ultimate Robotics Competition at PCCOE, com
 
 ---
 
-## 📊 GitHub at a Glance
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent)
-
----
-
 ## 🌱 What I'm Learning & Building
 
 I'm continuing to strengthen my software engineering fundamentals while exploring how AI, cloud-connected applications, and embedded systems can work together.
@@ -195,7 +172,7 @@ I don't expect to know everything. I value curiosity, consistent effort, honest 
 I'm always happy to connect with developers, engineers, founders, and people working on interesting technical projects.
 
 - 📧 **Email:** gokharudivanshu@gmail.com
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- 🐙 **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/divanshu-gokharu-186153290/
+- 🐙 **GitHub:** https://github.com/divanshujain1
 
 **Thanks for stopping by! Feel free to explore my repositories, share feedback, or reach out if you'd like to build something interesting together.** 🚀
